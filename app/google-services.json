@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89659001170",
+    "firebase_url": "https://zakdevelopment-8295b.firebaseio.com",
+    "project_id": "zakdevelopment-8295b",
+    "storage_bucket": "zakdevelopment-8295b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89659001170:android:41a63e5da7eb10daf2128b",
+        "android_client_info": {
+          "package_name": "staff.creativeitem.geofence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89659001170-u32uoamh0b4aq86u1qsm4r1aif0udtbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "staff.creativeitem.geofence",
+            "certificate_hash": "fe881faa852ec267af52aa2e25eb5414068a089c"
+          }
+        },
+        {
+          "client_id": "89659001170-vrgsjgqs0ej8jifak6757f516v3dvtjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXLDPPCJAjZs5bHt3Ck7uiDFHcBLPsOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89659001170-vrgsjgqs0ej8jifak6757f516v3dvtjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
